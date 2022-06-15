@@ -1,0 +1,4 @@
+Mainfest-Version: 1.0
+Premain-Class: firstexample.AgentApp
+Can-Redefine-Classes: true
+
